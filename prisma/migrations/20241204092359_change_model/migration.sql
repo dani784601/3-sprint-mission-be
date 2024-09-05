@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "articles" ALTER COLUMN "likes" SET DEFAULT 0,
+ALTER COLUMN "imgUrl" SET DEFAULT '';
